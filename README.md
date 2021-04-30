@@ -14,7 +14,7 @@ currently improving my React Skills, Next.js and Node.js
 
 Find me elsewhere 🌎
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40enam](https://twitter.com/enamulhaque71)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40enam)](https://twitter.com/enamulhaque71)
  
 
 https://enamulhaque.dev
