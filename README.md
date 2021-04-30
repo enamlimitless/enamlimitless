@@ -2,7 +2,7 @@
 
 Hey, I'm Your Friend who makes web apps.
 
-- 📫 How to reach me: enamulhaque.dev
+My Portfolio https://enamulhaque.dev
 
 <!--
 **enamulhaque7/enamulhaque7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
