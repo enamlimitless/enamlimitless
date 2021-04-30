@@ -6,9 +6,9 @@ Hey, I'm Your Friend who makes web apps.
 I work as a front-end developer with UI/UX design skills (front-end designer).
 <img align="right" width="375" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 Since 2020 I've been living and breathing web development and creating modern and user-friendly interfaces. I have the chance to immerse myself in many different works and projects, helping to make this world a little better through design and code 💻😍
-
+`````
  "Design is not just what it looks like and feels like. Design is how it works." -Steve Jobs
-
+``````
 
 ## DEVELOPER SKILL:
 <img src="https://logo.letskhabar.com/img?tool=html&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=css&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=bootstrap&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=js&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=react&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=node&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=mongodb&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=firebase&acol=gold" width="50px"> 
