@@ -17,6 +17,9 @@ Find me elsewhere 🌎
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40enam)](https://twitter.com/enamulhaque71)
  
 https://img.shields.io/badge/left-right-f39f37
+https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+
+
 
 https://enamulhaque.dev
 
