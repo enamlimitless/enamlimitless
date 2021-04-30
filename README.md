@@ -16,6 +16,9 @@ Currently improving my React skills, NextJS, Node.js.
 ## DEVELOPER SKILL:
   **Experties : <img src="https://logo.letskhabar.com/img?tool=html&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=css&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=bootstrap&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=js&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=react&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=node&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=mongodb&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=firebase&acol=gold" width="50px"> 
 
+
+<img src="https://logo.letskhabar.com/img?tool=git&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=github&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=netlify&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=heroku&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=google_cloud&acol=gold" width="50px"> 
+
 ### Find me elsewhere 🌎
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enamul-haque7/)](https://www.linkedin.com/in/enamul-haque7/) 
