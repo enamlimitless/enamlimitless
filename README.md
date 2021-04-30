@@ -9,11 +9,12 @@ Science 2020 I've been living and breathing web development and creating modern 
 
  "Design is not just what it looks like and feels like. Design is how it works." -Steve Jobs
 
-What I'm fucusing on 
+What I'm fucusing on 👨🏻‍💻 
 currently improving my React Skills, Next.js and Node.js
 
 Find me elsewhere 🌎
-Linkedin Badge Twitter Badge
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/cloudposse)
+ Twitter Badge
 
 enamulhaque.dev
 
