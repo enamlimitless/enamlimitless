@@ -18,7 +18,7 @@ Currently improving my React skills, NextJS, Node.js.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enamul-haque7/)](https://www.linkedin.com/in/enamul-haque7/) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/enamulhaque71)](https://twitter.com/enamulhaque71)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-bluef1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://facebook.com/enamulhaquebrown)](https://facebook.com/enamulhaquebrown)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://facebook.com/enamulhaquebrown)](https://facebook.com/enamulhaquebrown)
 
 
 **[enamulhaque.dev](https://www.enamulhaque.dev/)**
