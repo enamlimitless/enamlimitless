@@ -13,8 +13,7 @@ Since 2020 I've been living and breathing web development and creating modern an
 
 Currently improving my React skills, NextJS, Node.js.
 
-## DEVELOPER SKILL:
-  **Experties : <img src="https://logo.letskhabar.com/img?tool=html&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=css&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=bootstrap&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=js&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=react&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=node&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=mongodb&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=firebase&acol=gold" width="50px"> 
+## DEVELOPER SKILL: <img src="https://logo.letskhabar.com/img?tool=html&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=css&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=bootstrap&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=js&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=react&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=node&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=mongodb&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=firebase&acol=gold" width="50px"> 
 
 
 <img src="https://logo.letskhabar.com/img?tool=git&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=github&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=netlify&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=heroku&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=google_cloud&acol=gold" width="50px"> 
