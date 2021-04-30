@@ -1,4 +1,4 @@
- Hello, I'm Enamul Haque!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Enamul Haque](https://www.enamulhaque.dev)!
  
 Hey, I'm Your Friend who makes web apps.
 
@@ -12,7 +12,6 @@ Science 2020 I've been living and breathing web development and creating modern 
 What I'm fucusing on 👨🏻‍💻 
 currently improving my React Skills, Next.js and Node.js
 
-Find me elsewhere 🌎
 
 ### Find me elsewhere 🌎
 
