@@ -9,8 +9,9 @@ Science 2020 I've been living and breathing web development and creating modern 
 
  "Design is not just what it looks like and feels like. Design is how it works." -Steve Jobs
 
-What I'm fucusing on 👨🏻‍💻 
-currently improving my React Skills, Next.js and Node.js
+### What I'm focusing on 👨‍💻
+
+Currently improving my React skills, NextJS, Node.js.
 
 
 ### Find me elsewhere 🌎
