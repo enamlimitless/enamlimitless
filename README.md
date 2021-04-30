@@ -17,7 +17,7 @@ Since 2020 I've been living and breathing web development and creating modern an
 <img src="https://logo.letskhabar.com/img?tool=git&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=github&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=netlify&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=heroku&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=vs-code&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=npm&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=sass&acol=gold" width="50px"> 
 
 
-## What I'm focusing on 👨‍💻
+## What I'm Fucousing on: 👨‍💻
 
 Currently improving my React skills, NextJS, Node.js.
 
