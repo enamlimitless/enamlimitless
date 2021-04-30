@@ -9,7 +9,7 @@ Since 2020 I've been living and breathing web development and creating modern an
 
  "Design is not just what it looks like and feels like. Design is how it works." -Steve Jobs
 
-### What I'm focusing on 👨‍💻
+## What I'm focusing on 👨‍💻
 
 Currently improving my React skills, NextJS, Node.js.
 
