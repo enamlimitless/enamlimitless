@@ -28,7 +28,7 @@ Currently improving my React skills, NextJS, Node.js.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enamul-haque7/)](https://www.linkedin.com/in/enamulhaquee/) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/enamulhaque71)](https://twitter.com/enamulhaque71)
-[![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"&logoColor=white&link=https://instagram.com/enamulhaque.dev)](https://instagram.com/enamulhaque.dev)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"&logoColor=white&link=https://instagram.com/enamulhaque.dev)](https://instagram.com/enamulhaque.dev)
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
 <!-- Facebook Badge
