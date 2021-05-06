@@ -26,7 +26,7 @@ Currently improving my React skills, NextJS, Node.js.
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enamul-haque7/)](https://www.linkedin.com/in/enamul-haque7/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enamul-haque7/)](https://www.linkedin.com/in/enamulhaquee/) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/enamulhaque71)](https://twitter.com/enamulhaque71)
 
 <!-- Facebook Badge
