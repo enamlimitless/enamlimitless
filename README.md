@@ -1,4 +1,4 @@
-###  Hello, I'm [Enamul Haque](https://www.enamulhaque.dev)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+###  Hello, I'm [Enamul Haque](https://elastic-hermann-f7d7c6.netlify.app)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
  
 Hey, I'm Your Friend who makes web apps.
 
@@ -33,4 +33,4 @@ Currently improving my React skills, NextJS, Node.js.
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/enamulhaquebrown)](https://facebook.com/enamulhaquebrown) 
 -->
 
-**[enamulhaque.dev](https://www.enamulhaque.dev/)**
+**[enamulhaque.dev](https://elastic-hermann-f7d7c6.netlify.app/)**
