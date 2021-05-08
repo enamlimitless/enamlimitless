@@ -1,6 +1,4 @@
 ###  Hello, I'm [Enamul Haque](https://elastic-hermann-f7d7c6.netlify.app)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
- 
-Hey, I'm Your Friend who makes web apps.
 
 
 I work as a front-end developer with UI/UX design skills (front-end designer).
