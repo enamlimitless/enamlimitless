@@ -6,7 +6,7 @@ I work as a front-end developer with UI/UX design skills (front-end designer).
 
 <img align="right" width="375" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
-Since 2020 I've been living and breathing web development and creating modern and user-friendly interfaces. I have the chance to immerse myself in many different works and projects, helping to make this world a little better through design and code 💻😍
+Since 2020 I've been living and breathing web development and creating modern and user-friendly interfaces. I have the chance to immerse myself in many different works and projects, helping to make this world a little better through design and code �😍
 
 
 
