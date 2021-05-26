@@ -15,7 +15,7 @@ I work as a front-end developer with UI/UX design skills (front-end designer).
 
 
 <img src="https://logo.letskhabar.com/img?tool=git&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=github&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=netlify&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=heroku&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=vs-code&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=npm&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=sass&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=redux&acol=gold" width="50px">
-<img src="https://logo.letskhabar.com/img?tool=yarn&acol=gold" width="50px">
+<img src="https://logo.letskhabar.com/img?tool=yarn&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=tailwind&acol=gold" width="50px">
 
 ## What I'm Focusing on 👨‍💻
 
