@@ -1,7 +1,7 @@
 ###  Welcome, I'm [Enamul Haque](https://elastic-hermann-f7d7c6.netlify.app) ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 
-I work as a front-end developer with UI/UX design skills (front-end designer).
+<h3>I work as a front-end developer with UI/UX design skills (front-end designer).</h3>
 
 
 <img align="right" width="375" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
