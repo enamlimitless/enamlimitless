@@ -19,7 +19,7 @@ I work as a front-end developer with UI/UX design skills (front-end designer).
 
 ## What I'm Focusing on 👨‍💻
 
-<h4>Currently improving my React skills, NextJS, Node.js.<h4>
+<h4>Currently improving my React skills, NextJS, Node.js.</h4>
 
 
 ### Find me elsewhere 🌎
