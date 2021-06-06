@@ -18,7 +18,7 @@
 
 ## What I'm Focusing on 👨‍💻
 
-<h4>Currently improving my React skills, NextJS, Node.js.</h4>
+<h4>Currently improving my React skills, NextJS, Node.js.</h3>
 
 
 ### Find me elsewhere 🌎
