@@ -9,7 +9,6 @@
 <h4>Since 2020 I've been living and breathing web development and creating modern and user-friendly interfaces. I have the chance to immerse myself in many different works and projects, helping to make this world a little better through design and code 👨🏻‍💻👨🏻‍💻</h5>
 
 
-
 ## DEVELOPER SKILL:
 <img src="https://logo.letskhabar.com/img?tool=html&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=css&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=bootstrap&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=js&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=react&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=node&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=mongodb&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=firebase&acol=gold" width="50px"> 
 
