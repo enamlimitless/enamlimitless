@@ -34,3 +34,4 @@
 
 **[enamulhaque.dev](https://elastic-hermann-f7d7c6.netlify.app/)** <br />
 **[Hacker Rank](https://www.hackerrank.com/enamulhaquemb01/)**
+https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
