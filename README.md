@@ -32,6 +32,6 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/enamulhaquebrown)](https://facebook.com/enamulhaquebrown) 
 -->
 
-**[Portfolio](https://elastic-hermann-f7d7c6.netlify.app/)** <br />
+**[enamulhaque.dev](https://elastic-hermann-f7d7c6.netlify.app/)** <br />
 
 
