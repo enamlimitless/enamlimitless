@@ -26,7 +26,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/enamul-haque7/)](https://www.linkedin.com/in/enamulhaquee/) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/enamulhaque71)](https://twitter.com/enamulhaque71)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/enamulhaque.dev)](https://instagram.com/enamulhaque.dev)
-[![IHacker Rank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/enamulhaquemb01/)](https://www.hackerrank.com/enamulhaquemb01/)
+<!-- [![IHacker Rank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/enamulhaquemb01/)](https://www.hackerrank.com/enamulhaquemb01/) -->
 
 <!-- Facebook Badge
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/enamulhaquebrown)](https://facebook.com/enamulhaquebrown) 
